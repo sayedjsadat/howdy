@@ -1,0 +1,12 @@
+#.gitignroe contains files and
+#folders that should be excluded
+#from version control
+
+#ingroe vendor directory
+vendor/
+tmp/
+
+#ignore composer.lock
+composer.lock
+
+
